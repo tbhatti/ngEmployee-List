@@ -1,0 +1,20 @@
+[
+    {
+        "id": "123",
+        "title": "John",
+        "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "opened": false
+    },
+    {
+        "id": "1234",
+        "title": "Adam",
+        "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "opened": false
+    },
+    {
+        "id": "1134",
+        "title": "Steve",
+        "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "opened": false
+    }
+]
